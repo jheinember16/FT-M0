@@ -19,7 +19,6 @@ function crearUsuario() {
     //     return 'Hola, mi nombre es ' + this.nombre   
     //   }    
     // return Usuario
-
     // 2 FORMA --->> ES6 
     class Usuario {
       constructor(opciones){
